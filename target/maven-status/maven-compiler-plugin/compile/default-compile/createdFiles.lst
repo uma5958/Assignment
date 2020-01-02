@@ -1,0 +1,6 @@
+com\base\BasePage.class
+com\ExtentReports\ExtentTestManager.class
+com\Listeners\WebEventListener.class
+com\pages\iPhonePriceCheckerPage.class
+com\ExtentReports\ExtentManager.class
+com\pages\TripAdviserPage.class
